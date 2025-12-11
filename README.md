@@ -1,4 +1,5 @@
 Umumiy 3 soat 30 minut vaqt ketdi
+ism: Abubakr G'ulomov
 
 # Mini Marketplace – Test Topshiriq
 
