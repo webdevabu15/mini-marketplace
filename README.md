@@ -42,3 +42,10 @@ react-cart faylini ichidagi html root faylni orniga ozim yozgan htmlni qoyganman
 - useState, useEffect
 - localStorage bilan sinxronizatsiya
 - Component-based arxitektura
+
+
+Rasmlar:
+
+<img src='./screenshots/Screenshot 2025-12-11 213158.png'/>
+<img src='./screenshots/Screenshot 2025-12-11 213226.png'/>
+<img src='./screenshots/Screenshot 2025-12-11 213301.png'/>
