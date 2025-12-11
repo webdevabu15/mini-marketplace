@@ -1,3 +1,5 @@
+Umumiy 3 soat 30 minut vaqt ketdi
+
 # Mini Marketplace – Test Topshiriq
 
 Ushbu loyiha Frontend Intern sinovi uchun bajarildi. Vazifada sahifaning bir qismi Vanilla JavaScript yordamida, savat qismi esa React yordamida ishlanishi talab qilingan. Loyiha to‘liq bir sahifada ishlaydi.
